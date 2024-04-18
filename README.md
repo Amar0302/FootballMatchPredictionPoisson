@@ -18,9 +18,8 @@ This project is a football match predictor that utilises the Poisson distributio
 ```
 PoissonMatchPredictor/
 │
-├── PoissonMatchPredictor.ipynb   # Main Jupyter notebook containing all the analyses and predictions
-├── data/                          # Directory for datasets used in the project
-│   └── historical_data.csv        # Historical match data
+├── PoissonMatchPredictor.ipynb    # Main Jupyter notebook containing all the analyses and predictions
+├── historical_data.csv            # Historical match data 
 └── README.md                      # Project overview and setup instructions
 ```
 
